@@ -40,13 +40,20 @@ function escogerPreguntaAleatoria() {
         var r=preguntas_correctas  /  (preguntas_hechas - 1)
         r=r*10
         r= Math.floor(r);
-        swal.fire({
+        if(r>7){swal.fire({
           title: "Juego finalizado",
           text:
-            "Puntuación: " + r,
+            "La clave es: Planta",
           icon: "success"
         });
-      }
+      }}else{swal.fire({
+          title: "Juego finalizado",
+          text:
+            "Intentar de nuevo",
+          icon: "success"
+        });
+      }}
+        
       if (reiniciar_puntos_al_reiniciar_el_juego) {
         preguntas_correctas = 0
         preguntas_hechas = 0
