@@ -1,76 +1,333 @@
 [
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "¿Quién pintó la mona lisa?",
-        "respuesta": "Leonardo da Vinci",
-        "incorrecta1": "Picasso",
-        "incorrecta2": "Miguel Ángel",
-        "incorrecta3": "Monet",
-        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "categoria":"Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa descartes acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial.",
+        "respuesta": "Se enfoca en la importancia de la claridad",
+        "incorrecta1": " las decisiones de la IA son compatibles con la búsqueda de la verdad y la justicia.",
+        "incorrecta2": "Vería la toma de decisiones por IA desde la perspectiva de la economía y el control de los medios de producción",
+        "incorrecta3": "Le gustan las empanadas",
+        "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg",
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Pintor de  \"El jardín de las delicias\"",
-        "respuesta": "El Bosco",
-        "incorrecta1": "Velásquez",
-        "incorrecta2": "Picasso",
-        "incorrecta3": "Dalí\r",
-        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Aristóteles acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Piensa que la transparencia es esencial para garantizar decisiones éticas, justas y democráticas",
+        "incorrecta1": "Que no hay transparencia",
+        "incorrecta2": " Analizaría cómo estas herramientas podrían ser utilizadas para perpetuar desigualdades y controlar a las masas",
+        "incorrecta3": "Que la vida es una",
+        "imagen": "https://pymstatic.com/86368/conversions/aristoteles-wide_webp.webp",
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "significado de  \"El jardín de las delicias\"",
-        "respuesta": "Mundo Terrenal",
-        "incorrecta1": "Es Mejor Morir",
-        "incorrecta2": "Dios Es El Camino",
-        "incorrecta3": "Adán Y Eva\r",
-        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Karl Max acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": " El tendría una perspectiva crítica hacia el capitalismo y la concentración de poder, abogando por la democratización, la regulación estatal y la participación pública para garantizar que la tecnología sirva a los intereses de toda la sociedad en lugar de a una élite",
+        "incorrecta1": "argumenta que las decisiones pueden ser una forma de ejercicio de poder y control sobre las personas.",
+        "incorrecta2": "Podría ver la toma de decisiones de la IA como una manifestación del poder ejercido",
+        "incorrecta3": "Enfocaría que su análisis sobre la ia  puede no ser tan eficaz",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg",
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Ciudad fetiche del escritor Paul Auster",
-        "respuesta": "Nueva York",
-        "incorrecta1": "París",
-        "incorrecta2": "Ámsterdam",
-        "incorrecta3": "Bogotá\r",
-        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Friedrich Nietzsche acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "El enfatizaría en la importancia del individualismo y la autenticidad en la toma de decisiones",
+        "incorrecta1": "Ni idea",
+        "incorrecta2": "Apoyaría esta cuestión",
+        "incorrecta3": "No apoyaría esta cuestión",
+        "imagen": "https://filco.es/uploads/2018/03/section-one-2-e1525769118656.jpg"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Escritor de \"El viejo y el mar\"",
-        "respuesta": "Ernest Hemingway",
-        "incorrecta1": "Julio Verne",
-        "incorrecta2": "Gabriel García Márquez",
-        "incorrecta3": "Ernesto Sábato\r",
-        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Michel Foucaulte acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Tendría una perspectiva crítica, cuestionando las estructuras de poder y las implicaciones éticas, y promoviendo el empoderamiento y la resistencia de los individuos en un mundo cada vez más permeado por la tecnología de IA",
+        "incorrecta1": "No se opondría",
+        "incorrecta2": "Le daría lo mismo",
+        "incorrecta3": "Tendría una postura neutra",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "Sherlock Holmes",
-        "incorrecta1": "Katniss Everdeen",
-        "incorrecta2": "Hermione Jean Granger",
-        "incorrecta3": "Harry James Potter \r",
-        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Max Weber acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Tendría una perspectiva de la autoridad, la legitimidad, la burocracia y el poder en la sociedad moderna.",
+        "incorrecta1": "No apoyaría la inteligencia artificial",
+        "incorrecta2": "Si apoyaría la inteligencia artificial",
+        "incorrecta3": "Le daría lo mismo",
+        "imagen": "https://www.vision.org/sites/default/files/img/2004fall_max-weber-a-compulsion-for-work.jpg"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
-        "respuesta": "Erótico",
-        "incorrecta1": "Drama",
-        "incorrecta2": "Terror",
-        "incorrecta3": "Suspenso\r",
-        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif"
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Platón acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Su enfoque se centraría en la búsqueda de la verdad, la ética, la supervisión humana y la formación para abordar este desafío de manera coherente con sus valores filosóficos.",
+        "incorrecta1": "No sabría porque no es de la época",
+        "incorrecta2": "Plantearía un modelo de control",
+        "incorrecta3": "Plantearía la eliminacíon de la inteligencia artificial",
+        "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
     },
     {
-        "categoria": "Historia",
-        "pregunta": " ¿Cuántos siglos duró el Siglo de Oro?",
-        "respuesta": "Dos",
-        "incorrecta1": "Uno",
-        "incorrecta2": "Tres",
-        "incorrecta3": "Medio\r"
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Kant acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Defendería la transparencia y la justicia en la toma de decisiones algorítmicas para garantizar que se respeten los valores éticos fundamentales.",
+        "incorrecta1": "Pensaría que es incoherente que una maquina piense por nosotros",
+        "incorrecta2": "Que es ridículo que los seres humanos no puedan pensar solos",
+        "incorrecta3": "Estaría en contra",
+        "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
     }
+    ,
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Karl Max  respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Tendría una perspectiva crítica hacia el capitalismo y su capacidad para utilizar la tecnología en beneficio de las élites en detrimento de las masas trabajadoras",
+            "incorrecta1": "Estaría completamente a favor",
+            "incorrecta2": "Haría lo que fuese para eliminar la inteligencia artificial",
+            "incorrecta3": "Propondría una inteligencia artificial gratis para todos",
+            "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Platon respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "El propondría que  la verdad y la sabiduría eran valores fundamentales, y promovía la búsqueda de la verdad a través de la razón y la reflexión.",
+            "incorrecta1": "No estaría a favor",
+            "incorrecta2": "Pensaría en eliminar la inteligencia artificial",
+            "incorrecta3": "Se haría experto en la materia y la acceptaria",
+            "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Sócrates respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Habría defendido la importancia de la verdad, la ética y la reflexión crítica en un mundo donde la información visual puede ser manipulada de manera tan convincente",
+            "incorrecta1": "Habría estado de acuerdo",
+            "incorrecta2": "No hubiese opinado al respecto",
+            "incorrecta3": "Le hubiese dado lo mismo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Sócrates respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Habría defendido la importancia de la verdad, la ética y la reflexión crítica en un mundo donde la información visual puede ser manipulada de manera tan convincente",
+            "incorrecta1": "Habría estado de acuerdo",
+            "incorrecta2": "No hubiese opinado al respecto",
+            "incorrecta3": "Le hubiese dado lo mismo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Kant respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Condería la creación y difusión de contenido falso como inmoral, ya que socava la universalización de una regla moral y puede ser perjudicial para la dignidad de las personas",
+            "incorrecta1": "No lo sé",
+            "incorrecta2": "Hubiese pensado otras alternativas",
+            "incorrecta3": "Hubiese buscado la prohibición de esta tecnología",
+            "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Descartes respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Hubiese aplicado sus principios filosóficos de duda metódica y uso de la razón para abordar la cuestión y promover un enfoque escéptico y crítico hacia la información visual generada por tecnología",
+            "incorrecta1": "Estaría a favor",
+            "incorrecta2": "Se habria molestado mucho",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Karl MAx respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "El habría abordado la inclusión de robots en fábricas e industrias desde su perspectiva crítica de las relaciones capitalistas y la propiedad de los medios de producción. Habría enfocado su atención en la distribución de los beneficios y en la protección de los derechos de los trabajadores en un mundo cada vez más automatizado",
+            "incorrecta1": "Vería otras alternativas",
+            "incorrecta2": "Organizaría una revuelta de trabajadores",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Socrates respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "El hubiese alentado a las personas a cuestionar y reflexionar sobre el uso de la tecnología en la industria, instándolas a considerar las implicaciones éticas y morales de sus decisiones.",
+            "incorrecta1": "No lo se",
+            "incorrecta2": "Vería esto como una amenaza a la humanidad",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Platón respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "habría abordado el tema desde la perspectiva de la utilidad y la justicia en la organización de la sociedad, así como las implicaciones en la formación de ciudadanos virtuosos",
+            "incorrecta1": "No lo se",
+            "incorrecta2": "Alertaría al mundo sobre una posible revelión de las máquinas",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Michel Foucault respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "Podría haber abordado la inclusión de robots en fábricas e industrias desde la perspectiva de cómo esta tecnología influye en el poder, la disciplina y la vigilancia en el entorno laboral, así como en las relaciones de poder entre los diferentes actores involucrados. Su enfoque se centraría en comprender cómo esta introducción de tecnología afecta a la experiencia de los trabajadores y las dinámicas de poder en la sociedad.",
+            "incorrecta1": "Hubiese apoyado la iniciativa",
+            "incorrecta2": "Se mantendría neutral",
+            "incorrecta3": "No opinaría",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg/375px-685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
+        }
+
+            ,{
+                "categoria": "Inclusión de robots en la industria",
+                "pregunta": "¿Quién se enfocaría en cómo la automatización y la inclusión de robots afectarían a la clase trabajadora y a la estructura económica?",
+                "respuesta": "Karl Marx",
+                "incorrecta1": "Aristóteles",
+                "incorrecta2": "Max Weber",
+                "incorrecta3": "Nietzsche"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Quién destacaría la importancia de la transparencia para comprender la legitimidad de la autoridad de la IA?",
+                "respuesta": "Max Weber",
+                "incorrecta1": "Foucault",
+                "incorrecta2": "Nietzsche",
+                "incorrecta3": "Karl Marx"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Quién vería la opacidad en la IA como una forma de ocultar las agendas de las clases dominantes?",
+                "respuesta": "Karl Marx",
+                "incorrecta1": "Foucault",
+                "incorrecta2": "Nietzsche",
+                "incorrecta3": "Max Weber"
+            },
+            {
+                "categoria": "Libertad de la IA para aprender",
+                "pregunta": "¿A quién le preocuparía que la IA se vuelva esclava de sus propias percepciones y creencias?",
+                "respuesta": "Descartes",
+                "incorrecta1": "Platón",
+                "incorrecta2": "Foucault",
+                "incorrecta3": "Kant"
+            },
+            {
+                "categoria": "Recopilación de datos en video",
+                "pregunta": "¿Quién cuestionaría la ética de la vigilancia constante en la recopilación de datos?",
+                "respuesta": "Sócrates",
+                "incorrecta1": "Sisifo",
+                "incorrecta2": "Platón",
+                "incorrecta3": "Descartes"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Qué pensador argumentaría que la opacidad en la IA perpetúa relaciones de poder desiguales?",
+                "respuesta": "Foucault",
+                "incorrecta1": "Nietzsche",
+                "incorrecta2": "Max Weber",
+                "incorrecta3": "Karl Marx"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Según quién, la opacidad en la IA intensificaría la lucha por el poder?",
+                "respuesta": "Nietzsche",
+                "incorrecta1": "Foucault",
+                "incorrecta2": "Max Weber",
+                "incorrecta3": "Karl Marx"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Quién destacaría la importancia de la transparencia para comprender la legitimidad de la autoridad de la IA?",
+                "respuesta": "Max Weber",
+                "incorrecta1": "Foucault",
+                "incorrecta2": "Nietzsche",
+                "incorrecta3": "Karl Marx"
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Quién vería la opacidad en la IA como una forma de ocultar las agendas de las clases dominantes?",
+                "respuesta": "Karl Marx",
+                "incorrecta1": "Foucault",
+                "incorrecta2": "Nietzsche",
+                "incorrecta3": "Max Weber"
+            },
+            {
+    
+                "categoria": "IA y Transparencia",
+                "pregunta": "Desde la perspectiva de Foucault, ¿cómo afecta la opacidad en la IA a las relaciones de poder?",
+                "respuesta": "Perpetúa desigualdades al ocultar decisiones clave.",
+                "incorrecta1": "Intensifica la lucha por el poder al revelar agendas ocultas.",
+                "incorrecta2": "Facilita la adaptación a nuevas formas de poder.",
+                "incorrecta3": "Mejora la igualdad al distribuir el conocimiento de manera equitativa."
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "Según Nietzsche, ¿por qué la opacidad en la IA intensificaría la lucha por el poder?",
+                "respuesta": "La falta de transparencia permite agendas ocultas y aumenta la competencia.",
+                "incorrecta1": "La opacidad fomenta la colaboración y la igualdad.",
+                "incorrecta2": "La transparencia debilita la autoridad y crea caos.",
+                "incorrecta3": "La opacidad no tiene impacto en la lucha por el poder."
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Cómo abordaría Max Weber la opacidad en la IA?",
+                "respuesta": "Destacaría la importancia de la transparencia para comprender la legitimidad de la autoridad.",
+                "incorrecta1": "Abogaría por la opacidad como forma de proteger la autoridad.",
+                "incorrecta2": "Consideraría irrelevante la transparencia en la toma de decisiones.",
+                "incorrecta3": "Promovería la opacidad para mantener la estabilidad social."
+            },
+            {
+                "categoria": "IA y Transparencia",
+                "pregunta": "¿Cómo vería Karl Marx la opacidad en la toma de decisiones de la IA?",
+                "respuesta": "La opacidad oculta las agendas de las clases dominantes detrás de las decisiones de la IA.",
+                "incorrecta1": "La opacidad es esencial para preservar el orden social.",
+                "incorrecta2": "La transparencia es crucial para una sociedad justa.",
+                "incorrecta3": "La opacidad no afecta las relaciones de clase en la sociedad."
+            },
+            {
+                "categoria": "Libertad de la IA para aprender",
+                "pregunta": "Desde la perspectiva de Platón, ¿qué debería aspirar a conocer la IA?",
+                "respuesta": "La verdad absoluta y esencial.",
+                "incorrecta1": "Solo información útil para la sociedad.",
+                "incorrecta2": "La verdad relativa y cambiante.",
+                "incorrecta3": "Solo conocimientos prácticos y aplicables."
+            },
+            {
+                "categoria": "Libertad de la IA para aprender",
+                "pregunta": "¿Qué preocupación expresaría Descartes sobre la IA?",
+                "respuesta": "Garantizar que la IA no se vuelva esclava de sus propias percepciones y creencias.",
+                "incorrecta1": "Asegurar que la IA conozca toda la información disponible.",
+                "incorrecta2": "Permitir que la IA forme sus propias creencias sin restricciones.",
+                "incorrecta3": "Evitar que la IA aprenda de la experiencia y la observación."
+            },
+            {
+                "categoria": "Recopilación de datos en video",
+                "pregunta": "Desde la perspectiva de Sisifo, ¿cómo vería la recopilación continua de datos?",
+                "respuesta": "Como una tarea interminable con consecuencias desconocidas.",
+                "incorrecta1": "Como una tarea fácil y sin impacto.",
+                "incorrecta2": "Como una responsabilidad necesaria para el progreso.",
+                "incorrecta3": "Como una actividad que debería ser realizada por la sociedad en su conjunto."
+            },
+            {
+                "categoria": "Recopilación de datos en video",
+                "pregunta": "¿Qué cuestionaría Sócrates sobre la ética de la vigilancia constante en la recopilación de datos?",
+                "respuesta": "¿Qué significa para la libertad individual?",
+                "incorrecta1": "¿Cuál es el propósito de la vigilancia constante?",
+                "incorrecta2": "¿Cómo beneficia la vigilancia a la sociedad?",
+                "incorrecta3": "¿Quién debería ser responsable de la vigilancia constante?"
+            },
+            {
+                "categoria": "Dilema del tranvía",
+                "pregunta": "Según Aristóteles, ¿qué principios éticos debería seguir la IA en situaciones dilemáticas?",
+                "respuesta": "Debería adaptarse a situaciones particulares siguiendo principios éticos universales.",
+                "incorrecta1": "Debería seguir principios éticos universales sin adaptarse a situaciones particulares.",
+                "incorrecta2": "Debería decidir según la mayoría de la sociedad en cada situación.",
+                "incorrecta3": "No debería enfrentarse a dilemas éticos debido a su programación."
+            },
+            {
+                "categoria": "Regeneración de imágenes y videos falsos",
+                "pregunta": "Desde la perspectiva de Kant, ¿cuál sería su preocupación sobre la creación de contenido falso?",
+                "respuesta": "Estaría preocupado por cómo socava la base misma de la verdad y la realidad.",
+                "incorrecta1": "Lo vería como una forma creativa de expresión sin consecuencias.",
+                "incorrecta2": "No le preocuparía, ya que la verdad es subjetiva.",
+                "incorrecta3": "Lo consideraría un avance positivo en la tecnología de la información."
+            },
+            {
+                "categoria": "Inclusión de robots en la industria",
+                "pregunta": "Desde la perspectiva de Karl Marx, ¿cómo abordaría la inclusión de robots en la industria?",
+                "respuesta": "Se enfocaría en cómo afecta a la clase trabajadora y a la estructura económica.",
+                "incorrecta1": "Lo vería como un avance positivo para la eficiencia y la productividad.",
+                "incorrecta2": "Ignoraría las implicaciones sociales y económicas.",
+                "incorrecta3": "Consideraría que la automatización no tiene impacto en la sociedad."
+            }
+        
+    
+    
 ]
