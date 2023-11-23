@@ -46,7 +46,7 @@ function escogerPreguntaAleatoria() {
             "La clave es: Planta",
           icon: "success"
         });
-      }}else{swal.fire({
+      }else{swal.fire({
           title: "Juego finalizado",
           text:
             "Intentar de nuevo",
